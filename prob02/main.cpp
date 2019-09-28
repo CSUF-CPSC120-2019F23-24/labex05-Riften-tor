@@ -1,4 +1,4 @@
-// This program asks the user for their first name and middle/last initials
+git add// This program asks the user for their first name and middle/last initials
 // and outputs their user name.
 
 #include <iostream>
