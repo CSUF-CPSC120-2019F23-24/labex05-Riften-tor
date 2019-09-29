@@ -1,5 +1,4 @@
 // examples of overflow/underflow
-//Annie
 
 #include <iostream>
 #include <iomanip>
